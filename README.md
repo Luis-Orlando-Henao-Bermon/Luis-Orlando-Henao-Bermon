@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola a Todos 👋
 
-<!--
-**Luis-Orlando-Henao-Bermon/Luis-Orlando-Henao-Bermon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Luis Orlando Henao Bermon tengo 19 años actualmente soy estudiante de ingenieria en sistemas y estoy estudiando programacion con *Campusland*. Me estoy preparando para ser desarrollador web.
 
-Here are some ideas to get you started:
+## Contacto 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Email:** luorheber37@gmail.com
+
+## Lenguajes que uso
+- HTML 5
+- CSS
+- Python
+## Proyectos Destacados
+
+**[Plataforma estudiantil:](https://github.com/Luis-Orlando-Henao-Bermon/Proyecto_Python_HenaoLuis_OrtizZully)** Es una simulacion de lo que seria un plataforma estudiantil desarrollada con Python en la cual pueden acceder a travez de usuario y contraseña y dependiendo de el tipo de usuario puede acceder a diferentes opciones
+
+**[Panel de indicadores:](https://github.com/Luis-Orlando-Henao-Bermon/PROYECTO-FILTRO_HenaoLuis_GuerreroMiguel)** Simulacion de pagina web de panel de indicadores en la cual puede acceder a distintas secciones como: añadir, eliminar, Reportar y ayuda es una pagina 100% responsive y esta echa solo con ***HTML*** y ***CSS*** por lo cual no es funcional
