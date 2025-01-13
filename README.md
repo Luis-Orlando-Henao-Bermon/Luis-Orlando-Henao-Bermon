@@ -1,6 +1,6 @@
 # Hola a Todos 👋
 
-Mi nombre es Luis Orlando Henao Bermon tengo 19 años actualmente soy estudiante de ingenieria en sistemas y estoy estudiando programacion con *Campusland*. Me estoy preparando para ser desarrollador web.
+Mi nombre es Luis Orlando Henao Bermon tengo 20 años actualmente soy estudiante de ingenieria en sistemas y estoy estudiando programacion con *Campusland*. Me estoy preparando para ser desarrollador web.
 
 ## Contacto 📱
 
