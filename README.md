@@ -36,3 +36,5 @@ Mi nombre es Luis Orlando Henao Bermon tengo 20 años actualmente soy estudiante
 </div>
 
 ![github-user-contribution (2)](https://github.com/user-attachments/assets/f3d18c3a-9932-4994-aa34-a0ecaf07bc81)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luis-Orlando-Henao-Bermon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
