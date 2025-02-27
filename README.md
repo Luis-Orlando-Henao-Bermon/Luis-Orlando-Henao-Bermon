@@ -1,15 +1,17 @@
 # Hola a Todos 👋
 
-Mi nombre es Luis Orlando Henao Bermon tengo 20 años actualmente soy estudiante de ingenieria en sistemas y estoy estudiando programacion con *Campusland*. Me estoy preparando para ser desarrollador web.
+Mi nombre es Luis Orlando Henao Bermon tengo 20 años actualmente soy estudiante de ingenieria en sistemas y estoy estudiando programacion con *Campusland*. Me estoy preparando para ser desarrollador web. Manejo lenguaje de programacion como Java, Python, HTML, CSS. Manejo de base de datos con MySQL, PostgreSQL. En cuanto a frameworks: Bootstrap , SpringBoot.
 
 ## Contacto 📱
 
 **Email:** luorheber37@gmail.com
 
 ## Lenguajes que uso
-|HTML 5|CSS 3|Python|Javascript|
-|--|--|--|--|
-|![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![alt text](    https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)|![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+|HTML 5|CSS 3|Python|Javascript|Java|MySQL|PostgreSQL|SpringBoot|
+|--|--|--|--|--|--|--|--|
+|[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) |
+
 ## Proyectos Destacados
 
 **[Plataforma estudiantil:](https://github.com/Luis-Orlando-Henao-Bermon/Proyecto_Python_HenaoLuis_OrtizZully)** Es una simulacion de lo que seria un plataforma estudiantil desarrollada con Python en la cual pueden acceder a travez de usuario y contraseña y dependiendo de el tipo de usuario puede acceder a diferentes opciones
